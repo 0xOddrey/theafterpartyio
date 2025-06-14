@@ -21,13 +21,5 @@ We're building a secure communication ecosystem that enhances the event experien
 ## Join The Party
 
 - Follow us on [Twitter](https://twitter.com/theafterpartyio)
-- Join our [Discord](https://discord.gg/theafterpartyio)
 - Visit our [Website](https://theafterparty.io)
 
-## Contact
-
-For business inquiries or partnerships, please reach out to us at [contact@theafterparty.io](mailto:contact@theafterparty.io)
-
-## License
-
-© 2024 The After Party. All rights reserved. 
