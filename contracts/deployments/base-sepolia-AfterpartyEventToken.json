@@ -1,0 +1,10 @@
+{
+  "network": "base-sepolia",
+  "chainId": 84532,
+  "contractName": "AfterpartyEventToken",
+  "contractAddress": "0x62F19007e532fBfD725B1F71F837aa3E9f8236e5",
+  "deployer": "0xDB0E6517c8cC367FB61C60E4854CE2Ebe4Ad57a2",
+  "transactionHash": "0x58e806e1748fbaf3368c5a10c5b137057ebef72f6f2b87be4cdea1174509d2a2",
+  "blockNumber": 31544254,
+  "timestamp": "2025-06-14T05:11:04.843Z"
+}
